@@ -1,0 +1,63 @@
+[
+    {
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2000000/header.jpg",
+      "title": "Monster Hunter Wilds",
+      "description": "An action RPG where players hunt massive creatures in a sprawling, untamed wilderness.",
+      "url": "https://www.monsterhunter.com/wilds/en-us/"
+    },
+    {
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
+      "title": "Counter-Strike 2",
+      "description": "A tactical first-person shooter featuring competitive team-based gameplay.",
+      "url": "https://www.counter-strike.net/"
+    },
+    {
+      "img": "https://comenian.org/wp-content/uploads/2025/01/unnamed-1.jpg",
+      "title": "Marvel Rivals",
+      "description": "A free-to-play action game where players can control iconic Marvel superheroes and villains.",
+      "url": "https://www.marvelrivals.com/"
+    },
+    {
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2385530/header.jpg?t=1740719844",
+      "title": "PGA TOUR 2K25",
+      "description": "A realistic golf simulation game featuring licensed PGA TOUR courses and players.",
+      "url": "https://www.pgatour2k25.com/"
+    },
+    {
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
+      "title": "Cyberpunk 2077",
+      "description": "An open-world action-adventure RPG set in a dystopian future.",
+      "url": "https://www.cyberpunk.net/"
+    },
+    {
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1085660/header.jpg",
+      "title": "Destiny 2",
+      "description": "A free-to-play online-only multiplayer first-person shooter.",
+      "url": "https://www.destinythegame.com/"
+    },
+    {
+      "img": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000014724/72ce0a17215521a167c3da579db4cc48a2f7a52eacc81ad985ba20fd6817fdc2",
+      "title": "Hogwarts Legacy",
+      "description": "An open-world action RPG set in the Harry Potter universe.",
+      "url": "https://www.hogwartslegacy.com/"
+    },
+    {
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1086940/capsule_616x353.jpg?t=1740386911",
+      "title": "Baldur's Gate 3",
+      "description": "A role-playing game set in the Dungeons & Dragons universe.",
+      "url": "https://baldursgate3.game/"
+    },
+    {
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2358720/f40ef565c380c617020e559b4b4b089edd93ec09/capsule_616x353.jpg?t=1739542141",
+      "title": "Black Myth: Wukong",
+      "description": "An action-adventure game based on the classic Chinese novel Journey to the West.",
+      "url": "https://store.steampowered.com/agecheck/app/2358720/"
+    },
+    {
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg",
+      "title": "Red Dead Redemption 2",
+      "description": "An open-world western action-adventure game.",
+      "url": "https://www.rockstargames.com/reddeadredemption2/"
+    }
+  ]
+  

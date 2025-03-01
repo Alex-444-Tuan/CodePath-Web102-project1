@@ -1,13 +1,59 @@
-# React + Vite
+# Web Development Project 1 - *Badass Games*
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Submitted by: **Alex Tran**
 
-Currently, two official plugins are available:
+This web app: **Showcase 10 AAA games**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Time spent: **3** hours spent in total
 
-## Expanding the ESLint configuration
+## Required Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# CodePath-Web102-project1
+The following **required** functionality is completed:
+
+- [x] **There is a unique theme for events or resources relevant to a specific community**
+- [x] **At least 10 unique resources or events are displayed in a responsive card format**
+
+The following **optional** features are implemented:
+
+- [x] Buttons or links to a related resources are on each card component
+- [x] The site is responsive for both desktop and mobile formats
+
+The following **additional** features are implemented:
+
+* [x] add some decoration to make it more bling bling
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented required features:
+
+
+<img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d58e52b8fbaa45f1a31ce5d01e3eb6ce-5d1d972e1647e40e-full-play.gif">
+
+
+
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with Looms  
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
+
+## Notes
+
+Describe any challenges encountered while building the app.
+
+## License
+
+    Copyright [2025] [Alex Tran]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.

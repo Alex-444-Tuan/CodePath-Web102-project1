@@ -27,7 +27,14 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 
-<img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d58e52b8fbaa45f1a31ce5d01e3eb6ce-5d1d972e1647e40e-full-play.gif">
+<div>
+    <a href="https://www.loom.com/share/d58e52b8fbaa45f1a31ce5d01e3eb6ce">
+      <p>Introduction to CodePath Projects 🎮 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/d58e52b8fbaa45f1a31ce5d01e3eb6ce">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d58e52b8fbaa45f1a31ce5d01e3eb6ce-5d1d972e1647e40e-full-play.gif">
+    </a>
+  </div>
 
 
 
